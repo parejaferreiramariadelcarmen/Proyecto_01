@@ -1,2 +1,2 @@
 # primer repositorio
-#### Esto son cuatro almohadillas
+#### Esto son 4 almohadillas
